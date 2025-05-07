@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Front-End Web Developer | Creative Technologist</h3>
+<h3 align="center">Front-End Web Developer | Digital Skills Campaigner| Graphic Designer</h3>
 
 ---
 
 🌐 Passionate about crafting modern, responsive, and user-friendly web interfaces using:
 - HTML • CSS • JavaScript  
 - Webflow • Nicepage  
-- Python (for automation & scripting)
+- Python (for Web Development)
 
 💡 I love turning design ideas into fully functional websites that blend **aesthetic appeal with seamless user experience**.
 
