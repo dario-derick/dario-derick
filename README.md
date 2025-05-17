@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dario Derick</h1>
+<h1 align="center" style="color: red;">Hi 👋, I'm Dario Derick</h1>
 <h3 align="center">Front-End Web Developer | Digital Skills Campaigner| Graphic Designer | Technophile</h3>
 
 ---
